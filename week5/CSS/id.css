@@ -1,0 +1,34 @@
+/*{
+    font-size: 10px;
+    background: linear-gradient(green,blue, yellow);
+}*/
+body{
+    /* background: linear-gradient(to left, red,orange); */
+    background-image: url("pexels-hristo-fidanov-1252869.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+#heading{
+    background-color: black;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+    
+
+}
+.paragraph{
+    background-color: aquamarine;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+
+}
+#p2{
+    background-color: brown;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: aqua;
+}
